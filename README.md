@@ -14,5 +14,5 @@ Been trying to learn these stuff :point_down:
 
 - Not done yet! :muscle:
 
-[![Fernie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernie-cpu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Fernie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernie-cpu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
