@@ -9,6 +9,7 @@ Been trying to learn these stuff :point_down:
 ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 
 - Currently going through [The Odin Project](https://theodinproject.com) curriculum, and I'm learning pretty neat things.
 
