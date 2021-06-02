@@ -13,3 +13,6 @@ Been trying to learn these stuff :point_down:
 - Currently going through [The Odin Project](https://theodinproject.com) curriculum, and I'm learning pretty neat things.
 
 - Not done yet! :muscle:
+
+[![Fernie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernie-cpu)](https://github.com/anuraghazra/github-readme-stats)
+
